@@ -5,7 +5,9 @@ There are 3 types of users in this project: User, Seller and Admin. I developed 
 The aim of the Project creation was to practice and hand down learning to create a web application. I created a web application where users can purchase items anywhere using the Internet and sellers can sell items. Developed an E-commerce web application using html, css, javascript, bootstrap, Java, JSP, servlet, JDBC, MariaDB(SQL). 
 
 
-<h5>Demo(Small) screen recorded video <a href="https://github.com/Alpeshpatel03434/E-commerce-web-application/blob/master/project-demo/part-1.mp4">Link1/Part-1</a>&nbsp;and <a href="https://github.com/Alpeshpatel03434/E-commerce-web-application/blob/master/project-demo/part-2.mp4">Link2/Part-2</a></br>OR</br>
+<h5>Demo(Small) screen recorded video <a href="https://github.com/Alpeshpatel03434/E-commerce-web-application/blob/master/project-demo/part-1.mp4">Link1/Part-1</a>&nbsp;and <a href="https://github.com/Alpeshpatel03434/E-commerce-web-application/blob/master/project-demo/part-2.mp4">Link2/Part-2</a></br></br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;OR</br></br>
 <a href="https://drive.google.com/file/d/1MVKpMtD-bT0FZp-8bDJ2lYB7Vw50LqWs/view?usp=sharing">Link1/Part-1 (view)</a>&nbsp;and <a href="https://drive.google.com/file/d/1FrdU-xCMPNdSAHY4DrTjVBPnHN5gfQn9/view?usp=sharing">Link2/Part-2 (view)</a><h5>
 </br>
 </br>
