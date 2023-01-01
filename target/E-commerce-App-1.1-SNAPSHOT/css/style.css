@@ -1,0 +1,136 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 25-Dec-2022, 12:30:08 pm
+    Author     : alpesh
+*/
+
+.custom-nav-bg{
+    background-color: #673AB7!important;
+}
+
+.seller-home .card{
+    border: 1px solid #673AB7;
+}
+
+.seller-home .card:hover{
+    background: #e2e2e2;
+    cursor: pointer;
+}
+
+.list-group-item .active{
+    background-color: #673AB7;
+}
+
+.product-card:hover{
+    background: #e2e2e2;
+    cursor: pointer;
+    border: 1px solid #673AB7;
+}
+
+
+
+
+/* The snackbar - position it at the bottom and in the middle of the screen */
+#snackbar {
+  visibility: hidden; /* Hidden by default. Visible on click */
+  min-width: 250px; /* Set a default minimum width */
+  margin-left: -125px; /* Divide value of min-width by 2 */
+/*  background-color: #333;  Black background color 
+  color: #fff;  White text color */
+  text-align: center; /* Centered text */
+  border-radius: 2px; /* Rounded borders */
+  padding: 16px; /* Padding */
+  position: fixed; /* Sit on top of the screen */
+  z-index: 1; /* Add a z-index if needed */
+  left: 50%; /* Center the snackbar */
+  bottom: 30px; /* 30px from the bottom */
+  
+    background: #00c02b;
+  border-color: #009d23;
+  color: #ffffff;
+}
+
+/* Show the snackbar when clicking on a button (class added with JavaScript) */
+#snackbar.show {
+  visibility: visible; /* Show the snackbar */
+  /* Add animation: Take 0.5 seconds to fade in and out the snackbar.
+  However, delay the fade out process for 2.5 seconds */
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+#snackbar.InVisible {
+  visibility: hidden; /* Show the snackbar */
+  /* Add animation: Take 0.5 seconds to fade in and out the snackbar.
+  However, delay the fade out process for 2.5 seconds */
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+/* Animations to fade the snackbar in and out */
+@-webkit-keyframes fadein {
+  from {bottom: 0; opacity: 0;}
+  to {bottom: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+  from {bottom: 0; opacity: 0;}
+  to {bottom: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+  from {bottom: 30px; opacity: 1;}
+  to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+  from {bottom: 30px; opacity: 1;}
+  to {bottom: 0; opacity: 0;}
+}
+
+.toast--success {
+  background: #00c02b;
+  border-color: #009d23;
+  color: #ffffff;
+}
+
+.toast--error {
+  background: #d50000;
+  border-color: #ba0000;
+  color: #ffffff;
+}
+
+
+/*-----------------------------*/
+
+
+
+/*@media (max-width:991px){
+.img-responsive {max-width: 100%; margin-left: auto;}
+}
+
+@media (min-width: 768px){
+.container {  max-width:750px; }
+.logo { max-width: 185px; margin-bottom: 10px; margin-top: 15px; }
+}
+
+@media (max-width:768px){
+.form-control:focus {box-shadow:none; border:0 none; border:1px solid #ccc;}
+
+}
+
+@media (max-width:750px){
+.logo { max-width: 185px; }
+.cardType td label {font-size:14px; padding: 8px 10px;}
+table.cardType {width:100%;}
+.form-control:focus {border:1px solid #ccc; box-shadow:none; outline:0;}
+
+}*/
+
+.payment-option-selction:hover{
+    border: 1px solid #673AB7;
+    cursor: pointer;
+}
