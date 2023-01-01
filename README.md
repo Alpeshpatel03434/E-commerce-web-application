@@ -6,3 +6,15 @@ The aim of the Project creation was to practice and hand down learning to create
 
 
 <img src="project-demo/1.png"></img>
+
+</br>
+<img src="project-demo/2.png"></img>
+</br>
+<img src="project-demo/3.png"></img>
+</br>
+<img src="project-demo/4.png"></img>
+</br>
+<img src="project-demo/5.png"></img>
+</br>
+<img src="project-demo/6.png"></img>
+</br>
