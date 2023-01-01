@@ -18,3 +18,27 @@ The aim of the Project creation was to practice and hand down learning to create
 </br>
 <img src="project-demo/6.png"></img>
 </br>
+<img src="project-demo/7.png"></img>
+</br>
+<img src="project-demo/8.png"></img>
+</br>
+<img src="project-demo/9.png"></img>
+</br>
+<img src="project-demo/10.png"></img>
+</br>
+<img src="project-demo/11.png"></img>
+</br>
+<img src="project-demo/12.png"></img>
+</br>
+<img src="project-demo/13.png"></img>
+</br>
+<img src="project-demo/14.png"></img>
+</br>
+<img src="project-demo/15.png"></img>
+</br>
+<img src="project-demo/16.png"></img>
+</br>
+<img src="project-demo/17.png"></img>
+</br>
+<img src="project-demo/18.png"></img>
+</br>
